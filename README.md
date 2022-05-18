@@ -1,2 +1,2 @@
-# mock-int-ques
-Exemplar bubble sort
+# Bubble Sort Review Question
+Implement a bubble sort algorithm that will sort arrays containing both positive and negative integers, as well as simply sorting strings by their first letter. What is the time efficiency? Can it be improved?
